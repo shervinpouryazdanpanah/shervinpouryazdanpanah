@@ -47,7 +47,7 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
 
 - **Email**: [shervin.yazdan75@gmail.com](mailto:shervin.yazdan75@gmail.com)
 - **Phone**: +98 9381584207
-- **LinkedIn**: [Shervin Yazdan](https://linkedin.com/in/shervin yazdan)
-- **Telegram**: [Shervin Yazdan]([https://t.me/shervin yazdan](https://t.me/shervinpouryazdanpanah))
+- **LinkedIn**: [https://linkedin.com/in/shervin yazdan](https://www.linkedin.com/in/shervin-pouryazdanpanah-85b24423b)
+- **Telegram**: [https://t.me/shervin yazdan](https://t.me/shervinpouryazdanpanah)
 
 Thank you for visiting my GitHub repository!
