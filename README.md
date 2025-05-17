@@ -36,7 +36,7 @@ Hello! I'm Shervin Pouryazdanpanah, a passionate Laravel and WordPress developer
 [![Skills](https://skillicons.dev/icons?i=php,html,css,js,bootstrap,laravel,wordpress,mysql,docker,linux,ubuntu,git,github)](https://skillicons.dev)
 
 ### Other Tools
-- Yii2 (not supported on skillicons.dev)
+- Yii2
 - Livewire
 - n8n (workflow automation)
 - Docusaurus
